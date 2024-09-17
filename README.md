@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nalwadhwa
+- 👋 Hi, I’m @nalinwadhwa02
 - 👀 I’m interested in AI, Code and AI4Code
 - 🌱 I’m currently learning how to be a researcher at Microsoft
 - 💞️ I’m looking to collaborate on anything you find interesting
