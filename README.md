@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nalinwadhwa02
-- 👀 I’m interested in AI, Code and AI4Code
-- 🌱 I’m currently learning how to be a researcher at Microsoft
-- 💞️ I’m looking to collaborate on anything you find interesting
+- 👀 I’m interested in the intersection of AI & PLFMSE
+- 🌱 I’m currently learning how to research as a PhD student at UIUC
 - 📫 How to reach me nalin.wadhwa02@gmail.com
 
 <!---
